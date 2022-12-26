@@ -34,7 +34,7 @@ path_order_details = open("/Users/mac/Desktop/Training/Udemy_training/itversity/
 #     "order_item_product_price"
 # ]
 
-order_item_product_id = 
+# order_item_product_id = 
 
 order_details_file = path_order_details.read()
 
